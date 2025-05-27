@@ -602,6 +602,14 @@ footer p {
   display: inline-block;
   font-weight: 600;
 }
+/* Center single button */
+.btn-container.single-btn {
+  justify-content: center;
+}
+.btn-container.single-btn .btn {
+  width: auto;
+  padding: 1rem 2rem;
+}
 
 
 
